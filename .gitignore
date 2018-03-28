@@ -2,3 +2,6 @@ Debug/
 DrzewaAVL.vcxproj
 DrzewaAVL.vcxproj.filters
 DrzewaAVL.vcxproj.user
+stdafx.cpp
+stdafx.h
+targetver.h
