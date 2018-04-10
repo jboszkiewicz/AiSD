@@ -391,7 +391,7 @@ BST_node* createTreeBST(int* array, int n){
 		}
 		node = root;
 	}
-
+	return root;
 }
 
 BST_node* findMaxBST(BST_node* root){
